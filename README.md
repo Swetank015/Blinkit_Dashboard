@@ -1,4 +1,4 @@
-# Blinkit_Dashboard
+# Blinkit Dashboard
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 ## Blinkit Power BI Dashboard Analysis.
 This Power BI dashboard analyzes Blinkit's grocery sales performance, customer preferences, outlet performance, product categories, and marketing campaign effectiveness. It helps management monitor business KPIs and make data-driven decisions using interactive filters for Outlet Location Type, Outlet Size, and Item Type.
